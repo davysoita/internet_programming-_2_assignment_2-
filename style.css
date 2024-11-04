@@ -1,0 +1,16 @@
+body{
+    background-color: mediumblue;
+    display: flex;
+}
+form{
+    background-color: aqua;
+    display: flex;
+
+}
+label{
+    color: blueviolet;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: bold;
+}
